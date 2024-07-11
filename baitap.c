@@ -11,7 +11,8 @@ int main()
     tong = a + b;
     hieu = a - b;
     printf("Tong cua hai so nguyen la : %d\n", tong);
-    printf("Hieu cua hai so nguyen la : %d ", hieu);
+    printf("Hieu cua hai so nguyen la : %d\n ", hieu);
+    printf("Hello World!");
 return 0;
 
 }
